@@ -7,3 +7,5 @@ Overview: This is a simple Snake game implemented in Python using the Turtle mod
 - Animating the Snake Segments on Screen
 - Create a Snake Class & Move to OOP
 - How to Control the Snake with a Keypress
+- Class Inheritance
+- How to Slice Lists & Tuples in Python
