@@ -1,4 +1,4 @@
-## My Snake Game!
+# My Snake Game!
 Overview: This is a simple Snake game implemented in Python using the Turtle module. The player controls a snake that moves around the screen, eating food to grow longer. The game ends if the snake collides with the walls or itself.
 
 ---
