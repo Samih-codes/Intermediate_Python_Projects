@@ -15,10 +15,7 @@ while len(guessed_states) < 50:
 	answer = screen.textinput(title= f"{len(guessed_states)}/50 States Correct ",
 									prompt = "Can you name a State?").title()
 	if answer == "Exit":
-		missed_states = []
-		for state in state_list:
-			if state not in guessed_states:
-				missed_states.append(state)
+		missed_states = [state for state in state_list if state not in guessed_states]
 		new_data = pandas.DataFrame(missed_states)
 		new_data.to_csv("states_to_practice.csv")
 		break
