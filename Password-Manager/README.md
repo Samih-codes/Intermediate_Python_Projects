@@ -4,7 +4,7 @@ Overview: This is a simple password manager application built using Python's tki
 
 ---
 # Concepts Learned
-- Working with Images and Setting up the Canvas
-- Use grid() and columnspan to Complete the User Interface
-- Saving Data to File
-- Dialog Boxes and Pop-Ups in Tkinter
+- Working with images and Canvas
+- Use grid() and columnspan to finsih the UI
+- Saving data to file
+- Dialog boxes and pop-ups in Tkinter
