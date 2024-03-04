@@ -3,6 +3,5 @@ Overview: This Python script generates personalized letters using a starting tem
 
 ---
 # Concepts Learned:
-- How to Open, Read, and Write to Files using the "with" Keyword
-- How to Open, Read, and Write to Files using the "with" Keyword
-- Relative and Absolute File Paths
+- Open, read, and write to files using the "with" Keyword
+- Relative and absolute file paths
