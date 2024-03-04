@@ -5,6 +5,6 @@ Below is the color list to pick from: ["red", "orange", "yellow", "green", "blue
 
 ---
 # Concepts Learned
-- Python Higher Order Functions & Event Listeners
-- Object State and Instances
-- The Turtle Coordinate System
+- Higher Order functions & event listeners
+- Object state and instances
+- Turtle coordinate system
