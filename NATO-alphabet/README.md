@@ -3,6 +3,6 @@ Overview: This Python script allows users to translate words into NATO phonetic 
 
 ---
 # Concepts Learned
-- How to Create Lists using List Comprehension
-- How to use Dictionary Comprehension
-- How to Iterate over a Pandas DataFrame
+- Create lists using List Comprehension
+- Dictionary Comprehension
+- Iterate over a Pandas DataFrame
