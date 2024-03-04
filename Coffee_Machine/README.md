@@ -5,4 +5,4 @@ Project Link: https://replit.com/@SamihCodes/mycoffee-machine
 
 ---
 # Concepts Learned
-- Installing Python Locally
+- Installing python locally
