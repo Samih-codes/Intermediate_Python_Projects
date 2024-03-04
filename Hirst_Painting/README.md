@@ -4,6 +4,6 @@ Overview: This Python program generates a random dot painting inspired by the st
 
 ---
 # Concepts Learned
-- Understanding Turtle Graphics and How to use the Documentation
-- Importing Modules, Installing Packages, and Working with Aliases
-- Python Tuples and How to Generate Random RGB Colours
+- How to use turtle graphics documentation
+- Importing modules, installing packages, and aliases
+- Python tuples and generating random RGB colours
