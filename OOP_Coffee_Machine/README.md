@@ -5,7 +5,7 @@ Project Link: http://replit.com/@SamihCodes/oop-coffee-machine
 
 ---
 # Concepts Learned
-- Classes and Objects
-- Constructing Objects and Accessing their Attributes and Methods
-- How to Add Python Packages and use PyPi
-- Modifying Object Attributes and Calling Methods
+- Classes and objects
+- Constructing objects and accessing their attributes and methods
+- Adding Python packages and using PyPi
+- Modifying object attributes and calling methods
