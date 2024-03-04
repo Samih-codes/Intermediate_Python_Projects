@@ -5,6 +5,6 @@ Project Link: https://replit.com/@SamihCodes/myquiz-game
 
 ---
 # Concepts Learned
-- How to create a Class in Python
-- Working with Attributes, Class Constructors and the init() Function
-- Adding Methods to a Class
+- Class creation in Python
+- Attributes, class constructors and the init() function
+- Adding Methods to a class
