@@ -3,8 +3,8 @@ This is a simple Pomodoro timer application implemented in Python using the Tkin
 
 ---
 # Concepts Learned
-- How to work with the Canvas Widget and Add Images to Tkinter
-- Add a Count Down Mechanism
-- Dynamic Typing
-- Setting Different Timer Sessions and Values
-- Adding Checkmarks and Resetting the Application
+- Working with the Canvas widget and adding images to Tkinter
+- Count down mechanism
+- Dynamic typing
+- Setting different time sessions and values
+- Adding checkmarks and sesetting the timer
