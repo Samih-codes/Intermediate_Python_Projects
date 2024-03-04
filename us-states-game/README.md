@@ -3,7 +3,7 @@ Overview: This Python program allows users to guess the names of U.S. states int
 
 ---
 # Concepts Learned
-- Reading CSV Data in Python
-- DataFrames & Series
-- Working with Rows & Columns
-- Data Analysis with Pandas
+- Reading CSV data in python
+- DataFrames & series
+- Rows & columns
+- Pandas data analysis 
