@@ -3,10 +3,10 @@ Overview: This is a simple implementation of the classic Pong game using Python'
 
 ---
 # Concepts Learned
-- Create a Paddle that responds to Key Presses
-- Write the Paddle Class and Create the Second Paddle
-- Write the Ball Class and Make the Ball Move
-- Add the Ball Bouncing Logic
-- How to Detect Collisions with the Paddle
-- How to Detect when the Ball goes Out of Bounds
-- Score Keeping and Changing the Ball Speed
+- Implement paddle response to key presses
+- Define the Paddle class and create the second paddle
+- Define the Ball class and enable ball movement
+- Implement ball bouncing logic
+- Detect collisions with the paddle
+- Detect when the ball goes out of bounds
+- Implement score keeping and adjust ball speed
