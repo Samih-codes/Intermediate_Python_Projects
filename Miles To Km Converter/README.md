@@ -4,10 +4,10 @@ Overview: This Python script implements a simple graphical user interface (GUI) 
 ---
 
 # Concepts Learned
-- Creating Windows and Labels with Tkinter
-- Setting Default Values for Optional Arguments inside a Function Header
+- Creating windows and labels with Tkinter
+- Setting default values for optional arguments inside a function header
 - *args
 - **kwargs
-- Buttons, Entry, and Setting Component Options
-- Other Tkinter Widgets: Radiobuttons, Scales, Checkbuttons and more
+- Buttons, entries, and component options
+- Other Tkinter Widgets: radiobuttons, scales, checkbuttons etc.
 - Tkinter Layout Managers: pack(), place() and grid()
