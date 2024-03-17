@@ -4,7 +4,7 @@ Overview: This Python script allows you to track your exercise data by interacti
 ---
 # Concepts Learned
 
--Retrieve exercise data using natural language queries
--Storing information in Google Sheets via POST requests
--Verify Sheety API access (Basic Authentication)
--Utilize environment variables
+- Retrieve exercise data using natural language queries
+- Storing information in Google Sheets via POST requests
+- Verify Sheety API access (Basic Authentication)
+- Utilize environment variables
